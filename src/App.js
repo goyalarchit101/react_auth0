@@ -18,7 +18,7 @@ const App = () => {
             <h1>{"Hello "+user.name}</h1>
           </div>
           :
-          <button onClick={() => loginWithRedirect()}>Log In</button>
+          <button onClick={() => loginWithRedirect()}>Log Innnn</button>
       }
 
     </div>
